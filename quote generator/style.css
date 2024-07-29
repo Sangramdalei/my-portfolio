@@ -1,0 +1,14 @@
+.quote-container{
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: aliceblue;
+    border-width: 1px;
+    border-color: black;
+}
+button{
+    background-color: blue;
+    margin-top: 60px;
+}
